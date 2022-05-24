@@ -26,19 +26,18 @@
     d.  Familiarity with Random and Floor
             methods in Math module
 
-2. Counter 
+2. Counter, Reviews , Sidebar
     a:  To add Event Listener On Elements
     b:  Use of Event Delegation
     c:  Famiiar with eventObject
     d:  Understood the event object properties
         event.target, event.target.classList (returns DOMTokenList similat to Array Objects(starts from index 0)),event.target.className , 
+    e: Understood the use of Ele.classList.toggle(); Method
+    
 
 
-
-
-<!-- 3. Reviews
+<!-- 
 4. Navbar
-5. Sidebar
 6. Modal
 7. Questions
 8. Menu
